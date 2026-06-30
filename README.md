@@ -27,6 +27,14 @@ I'm passionate about turning ideas into code and continuously improving my progr
 - 🚗 Tollbooth System
 - 🏦 Banking System
 
+# 🎯 2026 Goals
+
+- Master Data Structures & Algorithms
+- Learn React
+- Learn Node.js
+- Contribute to Open Source
+- Build Full Stack Projects
+
 Every repository here represents something I've learned, practiced, or built. My goal is to keep improving one project at a time and eventually contribute to open-source software.
 
 # 📫 Connect with Me
