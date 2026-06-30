@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Raahim 👋
 
-<!--
-**OnlyRaahim/OnlyRaahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** at **NED University of Engineering & Technology**
 
-Here are some ideas to get you started:
+I'm passionate about turning ideas into code and continuously improving my programming skills. Currently, I'm strengthening my foundation in **C++**, **Object-Oriented Programming (OOP)**, and **Data Structures & Algorithms**, while exploring **Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌱 Currently Learning
+
+- C++
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- HTML, CSS & JavaScript
+- Git & GitHub
+
+# 💻 Projects
+
+- 📚 Library Management System
+- 🎓 Student Management System
+- 🚗 Tollbooth System
+- 🏦 Banking System
+
+Every repository here represents something I've learned, practiced, or built. My goal is to keep improving one project at a time and eventually contribute to open-source software.
+
+# 📫 Connect with Me
+
+- 📧 Email: **raahimali290@gmail.com**
+- 💼 LinkedIn: *Coming Soon*
+
+**"If you're not building, you're not learning."**
